@@ -3,7 +3,7 @@
 
 ## Introduction
 
-**MFRFNN: Multi-Functional Recurrent Fuzzy Neural Network for Chaotic Time Series Prediction**
+**Multi-step-ahead Stock Price Prediction Using Recurrent Fuzzy Neural Network and Variational Mode Decomposition**
 
 *Authors:* [Hamid Nasiri](https://www.linkedin.com/in/hamid-nasiri-b5555487/), [Mohammad Mehdi Ebadzadeh](https://www.linkedin.com/in/mehdi-ebadzadeh-28bb3b35/)
 

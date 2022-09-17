@@ -16,7 +16,7 @@ The [`Benchmarks`](Benchmarks/) folder contains three financial time series data
 
 + `HSI_Index.mat` corresponds to the Hang Seng Index (HSI) time series.
 + `SSE_Index.mat` corresponds to the Shanghai Stock Exchange (SSE) time series.
-+ `SandP_Index.mat` corresponds to the Standard & Poor's Index (SPX) time series.
++ `SandP_Index.mat` corresponds to the Standard & Poor's 500 Index (SPX) time series.
 
 
 ## Contact Me

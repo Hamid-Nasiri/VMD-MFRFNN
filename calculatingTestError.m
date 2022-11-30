@@ -81,4 +81,4 @@ for t=1:nDataTest
 end
 
 predictedOutput = RS_Big * currentIndividual.W(:);
-scaledPredicted = predictedOutput .* (max(tempdata(:,TargetDimension))-min(tempdata(:,TargetDimension))) + min(tempdata(:,TargetDimension));
+scaledPredicted = predictedOutput .* (max(tempdata_test(:,TargetDimension))-min(tempdata_test(:,TargetDimension))) + min(tempdata_test(:,TargetDimension));

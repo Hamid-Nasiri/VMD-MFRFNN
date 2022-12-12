@@ -7,9 +7,9 @@ To run the code simply execute `main.m`
 **Datasets:** 
 The [`Benchmarks`](Benchmarks/) folder contains three financial time series datasets used for testing and evaluating the code.
 
-+ `HSI_Index.mat` corresponds to the Hang Seng Index (HSI) time series.
-+ `SSE_Index.mat` corresponds to the Shanghai Stock Exchange (SSE) time series.
-+ `SandP_Index.mat` corresponds to the Standard & Poor's 500 Index (SPX) time series.
++ `HSI_Index.mat` corresponds to HSI time series.
++ `SSE_Index.mat` corresponds to the SSE time series.
++ `SandP_Index.mat` corresponds to the SPX time series.
 
 
 ## Contact Me
